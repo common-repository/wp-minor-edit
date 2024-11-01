@@ -1,0 +1,17 @@
+# Translatable text for WP Minor Edit Plugin
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Minor Edit 0.6\n"
+"Report-Msgid-Bugs-To: ciaran@ciarang.com\n"
+"POT-Creation-Date: 2008-09-07 09:08-0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: CiaranG <ciaran@ciarang.com>\n"
+"Language-Team: CiaranG <ciaran@ciarang.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-minor-edit.php:47
+msgid "Minor edit"
+msgstr ""
+
